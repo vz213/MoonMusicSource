@@ -1,0 +1,9 @@
+windows:
+py -3 pip install youtube-dl
+py -3 pip install discord.py
+py -3 pip install PyNaCl
+
+linux/macOS:
+python3 pip install youtube-dl
+python3 pip install discord.py
+python3 pip install PyNaCl
