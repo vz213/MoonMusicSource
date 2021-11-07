@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## MoonMusicSource
 
-You can use the [editor on GitHub](https://github.com/vz213/MoonMusicSource/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Is A Source Of [MoonMusic](https://twitter.com/johnny8147/status/1457484448501571593) bot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download
 
-### Markdown
+Packs:
+```sh
+# windows:
+py -3 pip install youtube-dl
+py -3 pip install discord.py
+py -3 pip install PyNaCl
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# linux/macOS:
+python3 pip install youtube-dl
+python3 pip install discord.py
+python3 pip install PyNaCl
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Source](https://github.com/vz213/MoonMusicSource/archive/refs/heads/main.zip)
 
-### Jekyll Themes
+### How To Use?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vz213/MoonMusicSource/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Edit A 'token.json' File.
+2. Run A Program.
+3. Enjoy :)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
