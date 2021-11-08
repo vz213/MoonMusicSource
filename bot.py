@@ -17,6 +17,8 @@ async def on_ready():
     print('Commands: moonmusic.netlify.app/cmds')
     print(f'Tag: {bot.user}')
     print(f'Prefix: {bot.command_prefix}')
+    print()
+    print(f'invite: discord.com/api/oauth2/authorize?client_id={bot.user.id}&permissions=3147776&scope=bot')
 
 @bot.command()
 async def join(ctx):
