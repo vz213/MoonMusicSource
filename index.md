@@ -29,4 +29,4 @@ python3 -m poetry add PyNaCl
 2. Run A Program.
 3. Enjoy :)
 
-#### ![](https://raw.githubusercontent.com/vz213/MoonMusicSource/gh-pages/moonmusic.png)
+#### ![Logo](https://raw.githubusercontent.com/vz213/MoonMusicSource/gh-pages/moonmusic.png)
