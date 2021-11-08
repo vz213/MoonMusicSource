@@ -15,6 +15,11 @@ py -3 pip install PyNaCl
 python3 pip install youtube-dl
 python3 pip install discord.py
 python3 pip install PyNaCl
+
+# replit:
+python3 -m poetry add youtube-dl
+python3 -m poetry add discord.py
+python3 -m poetry add PyNaCl
 ```
 
 [Source](https://github.com/vz213/MoonMusicSource/archive/refs/heads/main.zip)
